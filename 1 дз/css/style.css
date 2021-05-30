@@ -1,0 +1,35 @@
+.header {
+    background-color: brown;
+    display: flex;
+    justify-content: flex-end;
+}
+.btn-cart {
+    color: #fff;
+    background-color: #0b5ed7;
+    border-color: #0a58ca;
+    border-radius: 20px;
+    width: 200px;
+    min-height: 50px;
+}
+.buy-btn {
+    color: rgb(116, 228, 105);
+    background-color: #33e63c;
+    border-color: #33e63c;
+    color: red;
+    width: 20%;
+}
+.product__block {
+    background-color: yellowgreen;
+}
+.product-item {
+    text-align: center;
+    background-color: yellowgreen;
+    width: 20%;
+}
+.img__product {
+    width: 275px;
+}
+.products {
+    display: flex;
+    justify-content: space-between;
+}
